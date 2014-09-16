@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  NumberProblems-Objc
 //
-//  Created by Joshua Howland on 8/14/14.
+//  Created by Sergio Perez on 9/15/14.
 //  Copyright (c) 2014 DevMountain. All rights reserved.
 //
 
